@@ -1,4 +1,4 @@
-# Animal-Classification
+# Zoo-Sorter
 
 Technologies: Python, TensorFlow, Keras, OpenCV, CNN, Image Classification
 
